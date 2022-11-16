@@ -467,7 +467,7 @@ body.dark-theme {
 
 /*=============== MEDIA QUERIES ===============*/
 /* For small devices */
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 20px) {
   .svg__img {
     width: 100%;
   }
