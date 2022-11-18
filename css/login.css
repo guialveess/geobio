@@ -4,6 +4,9 @@
   flex-direction: column;
   height: 100vh;
   justify-content: center;
+  background: #FFAFBD;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .login__header {
@@ -37,7 +40,7 @@
 
 .login__button {
   background-color: #ee665c;
-  border-radius: 8px;
+  border-radius: 43px;
   color: #fff;
   cursor: pointer;
   font-size: 1em;
@@ -47,9 +50,9 @@
 }
 
 .login__button:disabled {
-  background: #20002c;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #cbb4d4, #20002c);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  color: #aaa;
+  background: #ff4b1f;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff9068, #ff4b1f);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff9068, #ff4b1f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  color: #333;
   cursor: auto;
 }
