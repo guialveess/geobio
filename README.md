@@ -1,1 +1,1 @@
-Educação Sexual aa.
+O projeto G E O B I O foi feito com o proposito de abordar e conscientizar temas relacionados a Educação Sexual, o site em si aborda diversos temas e tópicos sobre o mesmo, no final há um pequeno jogo para ajudar na fixação do conteúdo.
