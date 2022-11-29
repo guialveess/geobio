@@ -14,11 +14,11 @@
   --text-color: hsl(var(--hue), 4%, 35%);
   --text-color-light: hsl(var(--hue), 4%, 65%);
   --body-color: hsl(var(--hue), 0%, 100%);
-  --container-color: #fff;
+  --container-color: rgb(255, 255, 255);
   
   --scroll-bar-color: hsl(var(--hue), 4%, 85%);
   --scroll-thumb-color: hsl(var(--hue), 4%, 75%);
-  /*========== Font and typography ==========*/
+  /*========== FONTE E TIPOGRAFIA ==========*/
   --body-font: 'Poppins', sans-serif;
   --biggest-font-size: 2rem;
   --h2-font-size: 1.25rem;
@@ -26,16 +26,16 @@
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
   --smaller-font-size: .75rem;
-  /*========== Font weight ==========*/
+  /*========== TAMANHO DA FONTE ==========*/
   --font-semi-bold: 600;
   --font-bold: 700;
-  /*========== Margenes ==========*/
+  /*========== MARGENS ==========*/
   --mb-0-5: .5rem;
   --mb-0-75: .75rem;
   --mb-1: 1rem;
   --mb-1-5: 1.5rem;
   --mb-2: 2rem;
-  /*========== z index ==========*/
+  /*========== Z INDEX ==========*/
   --z-tooltip: 10;
   --z-fixed: 100;
 }
